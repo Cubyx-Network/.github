@@ -1,6 +1,6 @@
 # Cubyx Network - Quadratisch. Praktisch. Gut.
 
-<img src="../netzwerk.png"  width="250" align="right" />
+<img src="https://github.com/Cubyx-Network/.github/blob/main/netzwerk.png"  width="250" align="right" />
 
 ### Die offizielle GitHub Organisation
 
